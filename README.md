@@ -1,6 +1,6 @@
-# aCheckers
+# Checkers
 
-**aCheckers** is a modern, interactive checkers game built with Next.js (using the App Router), Tailwind CSS, and React DnD. This project reimagines the classic board game with advanced gameplay features, an intuitive drag-and-drop interface, and a modern aesthetic.
+**Checkers** is a modern, interactive checkers game built with Next.js (using the App Router), Tailwind CSS, and React DnD. This project reimagines the classic board game with advanced gameplay features, an intuitive drag-and-drop interface, and a modern aesthetic.
 
 ## Features
 
